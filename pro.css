@@ -1,0 +1,30 @@
+
+/* #container{ */
+  /* border-color: rgba(18, 4, 4, 0.373); */
+  /* border-radius: 10px; */
+  /* width: 200px; */
+/* } */
+/*  */
+.button-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.button{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
+#display{
+  width: 80%;
+  height: 30px;
+  margin: 10px;
+}
+#calculator{
+  border-color: rgba(18, 4, 4, 0.373);
+  border:solid;
+border-radius: 10px;
+width: 200px;
+
+}
